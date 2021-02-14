@@ -16,7 +16,7 @@
 * You can to change meeting day/time using drag and drop technique on “Calendar” view.
 * Don't worry if you accidentally reload the website, your appointments will remain in your calendar
 ## Tech stack
-* pure JavaScript ES6 without frameworks, with Babel transpiler; 
+* Pure JavaScript ES6 without frameworks, with Babel transpiler; 
 * Scss preprocessor; 
 * Webpack module bundler version 5.20; 
 * Bootstap 5;
